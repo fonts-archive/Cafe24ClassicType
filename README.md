@@ -33,7 +33,7 @@ font-face
 ```
 @font-face {
     font-family: 'Cafe24 Classic Type';
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24ClassicType/Cafe24ClassicType.ttf') format('truetype');
